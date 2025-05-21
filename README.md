@@ -1,5 +1,3 @@
-[abelrestituyo](https://github.com/Shunazo/abelrestituyo)/README.md
-
 Hello, I'm Abel!
 -I have been an aspiring Software Developer since 2023 💻.
 
