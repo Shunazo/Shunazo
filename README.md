@@ -6,7 +6,7 @@
 
 - I spend a lot of my time reading.
 
-- Sometimes i fiddle around with Ionic.
+- Sometimes I fiddle around with Ionic.
 
 - I speak english and spanish.
 
