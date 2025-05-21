@@ -18,6 +18,8 @@
 
 - React (Currently learning)
 
+## 📫 Get in Touch
+
 You can reach me at: [Email](abeljunior0907@gmail.com) 
 
 
