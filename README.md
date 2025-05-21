@@ -20,6 +20,6 @@
 
 ## 📫 Get in Touch
 
-You can reach me at: [Email](abeljunior0907@gmail.com) 
+You can reach me at: [Email](mailto:abeljunior0907@gmail.com) 
 
 
