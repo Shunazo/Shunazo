@@ -1,22 +1,23 @@
-Hello, I'm Abel!
--I have been an aspiring Software Developer since 2023 💻.
+# Hello, I'm Abel! 👋
 
--Been a Gamer since i learned what a computer was.
+- I have been an aspiring Software Developer since 2023 💻.
 
--I spend most of my time reading.
+- Been a Gamer since I learned what a computer was.
 
--I speak english and spanish.
+- I spend a lot of my time reading.
 
-⚒ My Skills
+- I speak english and spanish.
 
--JavaScript
+## ⚒ My Skills
 
--Node
+- JavaScript
 
--Express
+- Node
 
--React (Currently learning)
+- Express
 
--C#
+- React (Currently learning)
 
-You can hit me up over [Email](abeljunior0907@gmail.com) 
+You can reach me at: [Email](abeljunior0907@gmail.com) 
+
+
