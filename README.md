@@ -6,17 +6,15 @@
 
 - I spend a lot of my time reading.
 
-- Sometimes I fiddle around with Ionic.
-
 - I speak english and spanish.
 
 ## ⚒ My Skills
 
-- JavaScript
+- JavaScript, TypeScript
 
-- Node
+- Node, Express
 
-- Express
+- Ionic, Angular, App
 
 - React (Currently learning)
 
