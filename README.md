@@ -14,7 +14,7 @@
 
 - Node, Express
 
-- Ionic, Angular, App
+- Ionic, Angular
 
 - React (Currently learning)
 
